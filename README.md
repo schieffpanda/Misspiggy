@@ -1,9 +1,21 @@
 # Misspiggy
+## Misspiggy two
+### Misspiggy three
 
 
 ```
-hello this is Miss Piggy and I make a great pie for kermit the frog.
+# List of dresses
+dresses = ["red dress", "blue dress", "green dress", "yellow dress", "pink dress"]
+
+# Miss Piggy picks out a dress
+for dress in dresses:
+    print(f"Miss Piggy is considering the {dress}.")
+    
+print("Miss Piggy has chosen her dress!")
+
+
 ```
+
 ![image](https://github.com/user-attachments/assets/0a8ab0d3-7729-4ae5-ad63-930f7736f3cc)
 
 
@@ -13,5 +25,6 @@ hello this is Miss Piggy and I make a great pie for kermit the frog.
 - lemon pudding
 - milk
 - cool whip
+  
 ~~bananas~~
---bee--
+
