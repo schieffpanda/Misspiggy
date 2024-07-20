@@ -30,3 +30,5 @@ print("Miss Piggy has chosen her dress!")
 
 *Put in pie pan*
 
+$\color{purple}{The\ quick\ brown\ fox\ jumps\ over\ the\ lazy\ dog.}$
+
