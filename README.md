@@ -19,6 +19,7 @@ print("Miss Piggy has chosen her dress!")
 ![image](https://github.com/user-attachments/assets/0a8ab0d3-7729-4ae5-ad63-930f7736f3cc)
 
 
+
 **Lemon pudding pie**
 
 - grahm crackers
@@ -27,6 +28,7 @@ print("Miss Piggy has chosen her dress!")
 - cool whip
   
 ~~bananas~~
+~~ginger~~
 
 *Put in pie pan*
 
