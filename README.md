@@ -27,15 +27,8 @@ click create repository
 
 
 ![image](https://github.com/user-attachments/assets/a340039c-a674-486b-b771-c987712c8e32) 
+
 on the read me click the pen button
-
-
-
-
-
-
-
-
 
 
 
@@ -112,4 +105,11 @@ $\color{red}{The\ pie\ should\ be\ put\ in\ the\ refrigerator\ soon.}$
 What it looks like in edit syntax in readme
 
 ![image](https://github.com/user-attachments/assets/4b444c00-8e9b-4739-81cd-990656a0ec2c)
+
+
+
+![image](https://github.com/user-attachments/assets/a4355daa-f320-45cd-849f-33162e53983e)
+
+What a finished page can look like
+
 
