@@ -18,7 +18,9 @@ https://github.com/lifeparticle/Markdown-Cheatsheet/blob/main/README.md
 
 ![image](https://github.com/user-attachments/assets/e863253b-03b0-4ecc-a4c6-75468c21606c)
 
-fill out the following boxes
+fill out the following boxes as seen above
+
+You can choose if you want private or public
 
 click create repository
 
