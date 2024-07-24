@@ -80,6 +80,7 @@ What it looks like in edit syntax in readme
 - milk
 - cool whip
   
+  
   What it looks like in edit syntax in readme
   
   ![image](https://github.com/user-attachments/assets/7713d58e-8ff0-49d4-ab46-d0029957c84d)
