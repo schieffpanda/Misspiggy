@@ -4,6 +4,30 @@ https://www.youtube.com/watch?v=a8CwpGARAsQ
 https://github.com/lifeparticle/Markdown-Cheatsheet/blob/main/README.md
 
 
+# steps in creating a read me
+
+![image](https://github.com/user-attachments/assets/a2eec45e-8fa4-4024-a7f5-ae49d47bc399)
+
+![image](https://github.com/user-attachments/assets/8e0217a8-3f65-482b-849c-44709945f601)
+
+ You are on your the home page 
+ 
+ click on new 
+
+
+
+![image](https://github.com/user-attachments/assets/e863253b-03b0-4ecc-a4c6-75468c21606c)
+
+fill out the following boxes
+
+click create repository
+
+
+
+![image](https://github.com/user-attachments/assets/a340039c-a674-486b-b771-c987712c8e32) 
+
+
+on the read me click the pen button
 
 
 
