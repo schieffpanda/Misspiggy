@@ -4,7 +4,7 @@ https://www.youtube.com/watch?v=a8CwpGARAsQ
 https://github.com/lifeparticle/Markdown-Cheatsheet/blob/main/README.md
 
 
-# steps in creating a read me 
+# steps in creating a read me  
 
 ![image](https://github.com/user-attachments/assets/a2eec45e-8fa4-4024-a7f5-ae49d47bc399)
 
