@@ -1,0 +1,12 @@
+body {
+  background-color: #f0fff0; /* light greenish background */
+  font-family: 'Comic Sans MS', cursive, sans-serif;
+  color: #2e8b57; /* sea green text */
+  padding: 2em;
+}
+
+h1 {
+  color: #006400; /* dark green */
+  text-align: center;
+  text-shadow: 2px 2px #90ee90; /* light green glow */
+}
